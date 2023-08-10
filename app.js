@@ -10,7 +10,8 @@ app.use(express.static("public"));
 app.set("view engine", "ejs");
 
 // database connection
-const dbURI = "mongodb+srv://shedaoo:Sagar123@cluster0.ewa3fmj.mongodb.net/";
+const dbURI =
+  "mongodb+srv://shedaoo:Sagar123@cluster0.ewa3fmj.mongodb.net/node-auth";
 mongoose
   .connect(dbURI, {
     useNewUrlParser: true,
