@@ -1,5 +1,5 @@
 {
-  "name": "node-express-jwt-auth",
+  "name": "jwt-auth",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-express-jwt-auth.git"
+    "url": "git+https://github.com/sagarhedaoo/JWT_Authentication"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-express-jwt-auth/issues"
+    "url": "https://github.com/sagarhedaoo/JWT_Authentication/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/node-express-jwt-auth#readme"
+  "homepage": "https://github.com/sagarhedaoo/JWT_Authentication"
 }
